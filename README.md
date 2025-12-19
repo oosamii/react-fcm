@@ -2,7 +2,7 @@
 
 A modern React application for Firebase Cloud Messaging (FCM) push notifications with a clean UI.
 
-🔗 **[Live Demo](https://fcm-notifications-demo.netlify.app)**
+🔗 **[Live Demo](https://fcm.orbitcoretech.com)**
 
 ## Features
 
