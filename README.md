@@ -36,10 +36,6 @@ npm run dev
 npm run build
 ```
 
-## License
-
-MIT
-
 ---
 
-Made with React, Firebase & Tailwind CSS
+Made by [**aqcodes12**](https://github.com/aqcodes12) using React, Firebase & Tailwind CSS 🚀
